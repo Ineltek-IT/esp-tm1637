@@ -2,7 +2,7 @@
  * ESP-32 IDF library for control TM1637 LED 7-Segment display
  *
  * Author: Petro <petro@petro.ws>
- *
+ * Modified by: Francesco <bez@ineltek.it>
  * Project homepage: https://github.com/petrows/esp-32-tm1637
  * Example: https://github.com/petrows/esp-32-tm1637-example
  *
